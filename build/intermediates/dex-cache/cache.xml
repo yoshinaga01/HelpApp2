@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_01facf0f04bade28ede038a092610bfd2f0f200a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_d4aa9ac03431e6de5171d989e1749045d4c37419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_363e88bdf72827b7d974cbeafb1d148d2d8de626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_b0d90422b4847a07b6b2455d0f238efb5bcf34fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_23437ad8c9ea95394efde82797d210d0466ee2bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a2e33f7594ca0ace9c0e97eb5ba2a3c01410eda">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9f834c9ea2900852b85742ffe2bc8556735f9689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_35f2eac4365cbae4180d5d904fd14205b9d86f12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_3790df23c72b63d86ea05f8f7b428e88eb2c71d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5ae1d0efa6a8e22a23ea1f2f406743a8393ce57c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="396b5f843525204062f78e54a0ad57e1789516be">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d962833eed9e09bb229bb426eebb3e3d8b88eaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_f68cd45bdf7be976a93aa38679561b9f4a41a27a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_ebff5d78b33e2eb6a4ce941ac724912512b859eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_af4f40ea561861fa8a28cee40378e871658def2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_88aef2381fd37816d76bdc3e3719159ff6313ba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_9d2c46200dcdf1fdefd454c2685d85291be40a4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_08708a1cb07f69ac1231db49bdad8eff91d8ce32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/yoshinaga/Desktop/androidapp/HelpApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_c3764aba3791ad759c1564d645d79d63c15d7691/classes.dex" />
+    </item>
+
+</items>
